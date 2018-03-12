@@ -1,4 +1,4 @@
-# Games
+# Game of Rock Paper Scissor
 
 Created a famous game of Rock-Paper-Scissors for one player to play against the computer as an opponent.
 
